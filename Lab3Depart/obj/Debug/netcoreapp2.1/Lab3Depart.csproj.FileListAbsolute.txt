@@ -1,0 +1,11 @@
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\obj\Debug\netcoreapp2.1\Lab3Depart.csprojAssemblyReference.cache
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\obj\Debug\netcoreapp2.1\Lab3Depart.csproj.CoreCompileInputs.cache
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\obj\Debug\netcoreapp2.1\Lab3Depart.AssemblyInfoInputs.cache
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\obj\Debug\netcoreapp2.1\Lab3Depart.AssemblyInfo.cs
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\bin\Debug\netcoreapp2.1\Lab3Depart.deps.json
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\bin\Debug\netcoreapp2.1\Lab3Depart.runtimeconfig.json
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\bin\Debug\netcoreapp2.1\Lab3Depart.runtimeconfig.dev.json
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\bin\Debug\netcoreapp2.1\Lab3Depart.dll
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\bin\Debug\netcoreapp2.1\Lab3Depart.pdb
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\obj\Debug\netcoreapp2.1\Lab3Depart.dll
+C:\Users\RebeccaLapointe\Documents\Visual Studio 2017\Projects\Lab3Depart\Lab3Depart\obj\Debug\netcoreapp2.1\Lab3Depart.pdb
